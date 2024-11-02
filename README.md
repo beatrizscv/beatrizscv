@@ -1,4 +1,4 @@
-## Hi, I'm João Pedro Lins
+## Hi, I'm Beatriz Vieira
 
 ## Machine learning Engineer and Data Scientist🚀
 
