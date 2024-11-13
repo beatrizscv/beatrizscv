@@ -3,7 +3,7 @@
 ## Analista de Dados Geoespaciais
 
 ### Sobre mim:
-🚀<b>I'm a Machine Learning Engineer with over 3+ years of experience in data science. With a deep understanding of data science, software engineering and machine learning algorithms, i am able to design and develop innovative solutions that deliver measurable results for my projects.</b>💡📈
+🚀<b> Graduada em Ciências Biológicas pela Universidade de Pernambuco (UPE) com ênfase em Meio Ambiente e atualmente cursa a especialização em Ciência de Dados Geográficos pelo Centro Universitário Anhanguera.</b>💡📈
 
 ⭐️ I have experience in:
 
