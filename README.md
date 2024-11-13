@@ -1,8 +1,8 @@
-## Hi, I'm Beatriz Vieira
+## Beatriz Vieira
 
-## Machine learning Engineer and Data Scientist🚀
+## Analista de Dados Geoespaciais
 
-### About Me 👨‍💻
+### Sobre mim:
 🚀<b>I'm a Machine Learning Engineer with over 3+ years of experience in data science. With a deep understanding of data science, software engineering and machine learning algorithms, i am able to design and develop innovative solutions that deliver measurable results for my projects.</b>💡📈
 
 ⭐️ I have experience in:
