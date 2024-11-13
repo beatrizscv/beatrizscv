@@ -3,7 +3,7 @@
 ## Analista de Dados Geoespaciais
 
 ### Sobre mim:
-🚀<b> Graduada em Ciências Biológicas pela Universidade de Pernambuco (UPE) com ênfase em Meio Ambiente e atualmente cursa a especialização em Ciência de Dados Geográficos pelo Centro Universitário Anhanguera.</b>💡📈
+🚀<b> Bacharel em Ciências Biológicas pela Universidade de Pernambuco (UPE) com ênfase em Meio Ambiente e pós-graduanda em Ciência de Dados Geográficos pelo Centro Universitário Anhanguera.</b>💡📈
 
 ⭐️ I have experience in:
 
