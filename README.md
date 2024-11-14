@@ -22,11 +22,6 @@
 * Seaborn;
 * Numpy.
 
-## Meus Projetos:
-
-
-## Skills:
-
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -68,6 +63,7 @@
   </tbody>
 </table>
 
+## Meus Projetos:
 
 <p align="center">
 
