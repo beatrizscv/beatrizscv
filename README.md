@@ -25,7 +25,7 @@
 ## Meus Projetos:
 
 
-## Skills
+## Skills:
 
 <table align="center">
   <tbody>
