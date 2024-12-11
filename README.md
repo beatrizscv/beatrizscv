@@ -65,6 +65,10 @@
 
 ## Meus Projetos:
 
+### [Análise de NDVI em Barreiras/BA](https://github.com/beatrizscv/analise-ndvi-barreiras)
+  * Análise do Índice de Vegetação por Diferença Normalizada (NDVI) em uma área agrícola no município de Barreiras/BA utilizando Python e a API do Google Earth Engine (GEE).
+  * Repositório: https://github.com/beatrizscv/analise-ndvi-barreiras
+
 <p align="center">
 
 <div align="center">
