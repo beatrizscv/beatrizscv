@@ -69,6 +69,10 @@
   * Análise do Índice de Vegetação por Diferença Normalizada (NDVI) em uma área agrícola no município de Barreiras/BA utilizando Python e a API do Google Earth Engine (GEE).
   * Repositório: https://github.com/beatrizscv/analise-ndvi-barreiras
 
+### [Análise Exploratória das Propriedades do Solo em Bangladesh](https://github.com/beatrizscv/analise-exploratoria-bangladesh)
+  * Análise exploratória para compreender como as propriedades do solo e condições climáticas do país influenciam a aptidão agrícola da região.
+  * Repositório: https://github.com/beatrizscv/analise-exploratoria-bangladesh
+
 <p align="center">
 
 <div align="center">
