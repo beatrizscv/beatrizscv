@@ -3,7 +3,7 @@
 ## Analista de Dados Geoespaciais
 
 ### Sobre mim:
-👩‍🎓 Bacharel em Ciências Biológicas pela Universidade de Pernambuco (UPE) com ênfase em Meio Ambiente e pós-graduanda em Ciência de Dados Geográficos.
+👩‍🎓 Bacharel em Ciências Biológicas pela Universidade de Pernambuco (UPE) com ênfase em Meio Ambiente e pós-graduada em Ciência de Dados Geográficos.
 
 ⭐️ Experiências:
 * 💻 Desenvolvimento de mapas interativos usando Python e a biblioteca Geemap;
